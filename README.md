@@ -215,6 +215,16 @@ Returns:
 
 ---
 
+## Future Work
+
+- Mobile app
+- Explainable AI
+- Better NLP model
+- More datasets
+- Multilingual support
+
+---
+
 ## Medical Disclaimer
 
 > This system is designed for **educational and assistive purposes only**.
